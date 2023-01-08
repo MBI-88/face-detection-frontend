@@ -266,7 +266,7 @@ const Footer = () => {
               className='nav-item ps-lg-5 ps-3'>
               <motion.a
                 whileHover={{ scale: [null, 1.5] }}
-                href='https://porfoliombi.netlify.app/'
+                href='https://mbi-porfolio.netlify.app'
                 className='nav-link'
                 data-bs-toogle="tooltip"
                 title='MBI Porfolio link'
